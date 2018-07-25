@@ -75,7 +75,7 @@ package-lock.json
 .idea
 .next
 .next
-_gatsby-legacy
-_old
+**/_gatsby-legacy
+**/_old
 
 out
